@@ -55,15 +55,21 @@ What to Do If You Can’t Log In
 ------------------------------
 
 - **Forgot Password?**  
+
   Use the "Forgot Password" link to reset it via email.
 
 - **Forgot Quicken ID?**  
+
   Click “Forgot Quicken ID?” to recover your account credentials.
 
 - **Other Login Problems? Try This:**  
+
   - Clear your browser cache and cookies  
+
   - Use a different browser or device  
+
   - Temporarily disable VPNs or firewall  
+
   - Check your internet connection
 
 Logging in via the Quicken Desktop App
